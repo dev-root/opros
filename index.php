@@ -1,7 +1,7 @@
 <?
 
-
-echo 'Hello, World!';
+$a = 'something...';
+echo 'Hello, World! '.$a;
 
 
 ?>
